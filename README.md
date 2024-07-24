@@ -70,7 +70,7 @@ npm start
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Sparsh_Mishra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sparsh18)
+[![linkedin](https://img.shields.io/badge/Sparsh_Mishra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparsh18/)
 [![Github](https://img.shields.io/badge/Sparsh_Mishra-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/me-Sparsh)
 
 ## Show your support
